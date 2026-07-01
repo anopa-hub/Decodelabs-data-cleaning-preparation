@@ -59,17 +59,6 @@ decodelabs-data-cleaning-preparation/
 
 |    |--- data_cleaning.ipynb
 |
-|--- screenshots/
-
-|    |--- business_validation.png
-|    |--- cleaned_dataset_export.png
-|    |--- datatypes.png
-|    |--- duplicates_check.png
-|    |--- final_validation.png
-|    |--- missing_values_after_cleaning.png
-|    |--- quality_outliers.png
-|    |--- unitprice_outliers.png
-|
 |--- report/
 
 |    |--- Data_Cleaning_and_preparation_Report.pdf
@@ -216,19 +205,6 @@ Result:
 - Data types were verified and standardized.
 - Outlier analysis was performed using visualization techniques.
 - Final dataset was prepared for further analytical tasks.
-
----
-
-# Project Screenshots
-
-The repository contains screenshots demonstrating:
-
-- Dataset Information
-- Missing Value Analysis
-- Duplicate Check
-- Data Type Validation
-- Outlier Detection
-- Final Validation
 
 ---
 
